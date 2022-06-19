@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 1. How to set up a trial account in the SAP Business Technology Platform
+background: /images/pexels-pixabay-270700.jpg
 ---
-![pexels-pixabay-270700](/images/pexels-pixabay-270700.jpg )
+
 
 **You will learn**
 
@@ -54,13 +55,11 @@ Please wait and ensure that this step gets completed successfully for your accou
 Click on `Continue`. You will be directed to the SAP BTP cockpit, click on `Enter Your Trial Account”`
 
 ![1-6-2](/images/1-6-2.jpg "Go to your trial account")
- 
 
 ### Step 7 – Explore your trial account.
 You can now view the Global account, Sub Account details. 
 
 ![1-7-2](/images/1-7-2.jpg "Explore account")
- 
  
 ### Step 8 – Explore your sub account.
 
