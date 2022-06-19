@@ -2,6 +2,7 @@
 layout: post
 title: 1. How to set up a trial account in the SAP Business Technology Platform
 ---
+![pexels-pixabay-270700](/images/pexels-pixabay-270700.jpg )
 
 **You will learn**
 
